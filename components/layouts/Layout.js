@@ -46,6 +46,9 @@ function Layout({ children }) {
         </aside>
         <section>{children}</section>
       </div>
+      <footer>
+        <p>🌺🌺Developed by Roshanak.A🌺🌺</p>
+      </footer>
     </div>
   );
 }

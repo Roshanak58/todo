@@ -26,6 +26,7 @@ header {
   justify-content: space-between;
 }
 
+
 header button {
   background-color: #3f47f4;
   border: 1px solid #fff;
@@ -37,6 +38,26 @@ header button {
 
 header button svg {
   margin-left: 10px;
+}
+footer {
+    background-color: #3f47f4;
+  height: 50px;
+  color: #fff;
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 20px 10px;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+
+}
+footer p {
+  text-align: center;
+   margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  
 }
 
 .container--main {
